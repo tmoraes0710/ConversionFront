@@ -1,4 +1,4 @@
-var quoteService = {
+cotacaoService = {
     read: 'http://economia.awesomeapi.com.br/json/all'
 },
 

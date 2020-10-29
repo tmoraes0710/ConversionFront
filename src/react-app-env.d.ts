@@ -1,11 +1,11 @@
 /// <reference types="react-scripts" />
 
 interface Window {
-    quoteService: {
-        read: string,
-    },
+    cotacaoService: {
+        read: string;
+    };
 
     conversionService: {
-        read: string,
-    }
+        read: string;
+    };
 }
